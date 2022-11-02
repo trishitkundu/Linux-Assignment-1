@@ -39,3 +39,5 @@ store the read characters until we find a '/'. When a '/' is found then we will 
 <word> variable and again make it null and <flag> is made to 1. If we again find a '/' and
 the <flag> is 1 then we will print a blankspace and make <flag> to 0.
 
+# Remove-Comments-from-C-file
+The program removes the comments from a .c file.
